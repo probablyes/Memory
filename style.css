@@ -1,0 +1,41 @@
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+} 
+
+body{
+    background-color: #E1D6D1;
+}
+
+img {
+        width: 100px;
+        height: 100px;
+        visibility: hidden;
+    }
+
+
+td {
+    background-image:url("wzor.jpg");
+    border: 10px solid;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px grey;
+    text-align: center;
+    padding: 100px;
+}
+
+.tabelka {
+    padding: 100px;
+}
+
+
+
+
+
+
+
+
+
